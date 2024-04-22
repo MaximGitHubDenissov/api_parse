@@ -1,9 +1,9 @@
 import requests
 import json
 
-client_id = 'VKF5L2ELVD4GNWHXSIKNNG34MYJ4JWVEIAVIKYLDSRYA4HMT'
-client_secret = 'E14ERC54AD3M5OWKT3OHGPVVWD2WBUG5YKVUJ0AEEATLNVUO'
-API_KEY = 'fsq3m4FJwH62VyfdxT7QBYCnQ8+NKID6fLnbghNzX4tB7cw='
+client_id = ''
+client_secret = ''
+API_KEY = ''
 
 endpoint = "https://api.foursquare.com/v3/places/search"
 
